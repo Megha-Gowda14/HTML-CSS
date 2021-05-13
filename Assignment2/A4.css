@@ -1,0 +1,14 @@
+div{
+    border: 1px solid black;
+    background-color: rgd(151,228,251);
+}
+a {
+	color: crimson;
+	padding-left: 15px;
+}
+a:link {
+	color: rgb(70, 24, 233);
+}
+a:visited {
+	color: rgb(8, 139, 8);
+}

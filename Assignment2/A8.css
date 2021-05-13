@@ -1,0 +1,28 @@
+#div1 {
+	border: 1px solid black;
+	width: 50%;
+}
+
+#p1 {
+	border: 6px solid black;
+	background-color: rgb(158, 239, 241);
+}
+
+#p2 {
+	border: 4px solid black;
+	background-color: rgb(158, 239, 241);
+	margin: 20px 2px 20px 0px; /*t r b l*/
+}
+
+#p3 {
+	border: 2px solid black;
+	background-color: rgb(158, 239, 241);
+	margin: 20px 2px 20px 2px;
+}
+
+#p4 {
+	background-color: rgb(158, 239, 241);
+	height: 20px;
+	margin-left: 2px;
+	margin-right: 2px;
+}
